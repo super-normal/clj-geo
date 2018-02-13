@@ -1,6 +1,6 @@
 (defproject
-  factual/geo "1.2.2-SNAPSHOT"
-  :url     "https://github.com/factual/geo"
+  io.supernormal/geo "0.1.0-alpha1-SNAPSHOT"
+  :url     "https://github.com/super-normal/clj-geo"
   :license {:name "Eclipse Public License - v 1.0"
             :url  "http://www.eclipse.org/legal/epl-v10.html"
             :distribution :repo
